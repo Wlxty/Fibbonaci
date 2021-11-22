@@ -1,10 +1,10 @@
 package main
 
 import (
-	"Fibbonaci/Data"
+	"Fibbonaci/fibbonaci"
 	"fmt"
 )
 
 func main() {
-	fmt.Println(Data.Fibbonaci(6))
+	fmt.Println(fibbonaci.Fibbonaci(6))
 }

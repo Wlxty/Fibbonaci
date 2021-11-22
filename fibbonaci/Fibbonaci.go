@@ -1,4 +1,4 @@
-package Data
+package fibbonaci
 
 func Fibbonaci(size int) []int {
 
