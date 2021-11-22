@@ -1,10 +1,10 @@
 package main
 
-import(
-	"fmt"
+import (
 	"Fibbonaci/Data"
+	"fmt"
 )
 
-func main(){
+func main() {
 	fmt.Println(Data.Fibbonaci(6))
 }
